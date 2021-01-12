@@ -1,16 +1,26 @@
 ### Hi there 👋
+I am Junior Silva, BSc in Computer Science. I'm interested in software engineering, data structures and algorithms.
 
-<!--
-**juniorsilva42/juniorsilva42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer at Stone Co<br>
+🎯 Full-Stack Software Engineer<br>
+🚀 I’m currently focusing on API Development, DevSecOps and Software Engineering Processes <br>
+💬 Ask me about anything, I would like to answer<br>
 
-Here are some ideas to get you started:
+---
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Junior's Silva Stats](https://github-readme-stats.vercel.app/api?username=juniorsilva42&show_icons=true&count_private=true&?theme=algolia)<br>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsilva42&hide_title=true&langs_count=10&hide=html,css&layout=compact"></img> 
+
+---
+### Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+---
+### Get In Touch
+[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juniorsilva42/)](https://www.linkedin.com/in/juniorsilva42/)&nbsp;
