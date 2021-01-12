@@ -3,7 +3,7 @@ I am Junior Silva, BSc in Computer Science. I'm interested in software engineeri
 
 💻 Software Engineer at Stone Co<br>
 🚀 I’m currently focusing on API Development, DevSecOps and Software Engineering Processes <br>
-🎯 MSc in Eletronic Engineering and Computer Systems; and a Tech Lead<br>
+🎯 MSc in Electronic Engineering and Computer Systems; and a Tech Lead<br>
 💬 Ask me about anything, I would like to answer<br>
 
 ---
