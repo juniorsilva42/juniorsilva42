@@ -10,7 +10,7 @@ I'm Junior Silva, BSc in Computer Science and Software Engineer at Stone Co<br>I
 ### Stats
 
 ![Junior's Silva Stats](https://github-readme-stats.vercel.app/api?username=juniorsilva42&show_icons=true&count_private=true&?theme=algolia)<br>
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsilva42&hide_title=true&langs_count=10&hide=html,css&layout=compact"></img> 
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsilva42&hide_title=true&langs_count=15&hide=html,css&layout=compact"></img> 
 
 ---
 ### Languages and Tools
