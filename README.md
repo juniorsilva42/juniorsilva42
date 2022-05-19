@@ -5,6 +5,7 @@ I'm Junior Silva, BSc in Computer Science and Software Engineer at Stone Co<br>I
 🚀 I’m currently focusing on API Development, DevSecOps and Software Engineering Processes <br>
 🎯 MSc in Electronic Engineering and Computer Systems; and a Tech Leader<br>
 💬 Ask me about anything, I would like to answer<br>
+:chess_pawn::video_game: Deepweb CS:GO/Chess Professional Player<br>
 
 ---
 ### Stats
