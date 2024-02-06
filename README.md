@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm Junior Silva, BSc in Computer Science and Tech Manager at Stone Co<br>I'm interested in software engineering, data structures and algorithms.
+I'm Jr, BSc in Computer Science and Tech Manager at Stone Co<br>I'm interested in software engineering, data structures and algorithms.
 
 💻 Tech Manager at Stone Co<br>
 🚀 I’m currently focusing on API Development, DevSecOps and Software Engineering Processes <br>
 🎯 MSc in Electronic Engineering and Computer Systems; and a ~~Tech Leader~~<br>
 💬 Ask me about anything, I would like to answer<br>
-:chess_pawn::video_game: Deepweb CS:GO/Chess Professional Player<br>
+:chess_pawn::video_game: Deepweb Counter Strike/Chess Professional Player<br>
 
 ---
 ### Stats
